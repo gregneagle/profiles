@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+        <dict>
+           <key>PayloadType</key>
+           <string>com.apple.appstore</string>
+           <key>PayloadVersion</key>
+           <integer>1</integer>
+           <key>PayloadIdentifier</key>
+           <string>com.github.gregneagle.config.appstore</string>
+           <key>PayloadEnabled</key>
+           <true/>
+           <key>PayloadUUID</key>
+           <string>87885FB9-E4EA-40F5-9077-DA8C6940CDAA</string>
+           <key>PayloadDisplayName</key>
+           <string>App Store Configuration</string>
+           <key>restrict-store-softwareupdate-only</key>
+           <false/>
+           <key>restrict-store-disable-app-adoption</key>
+           <true/>
+           <key>restrict-store-require-admin-to-install</key>
+           <true/>
+        </dict>
+    </array>
+	<key>PayloadDescription</key>
+	<string>App Store configuration for Mavericks.</string>
+	<key>PayloadDisplayName</key>
+	<string>App Store Configuration</string>
+	<key>PayloadIdentifier</key>
+	<string>com.github.gregneagle.config.appstore</string>
+	<key>PayloadOrganization</key>
+	<string></string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>8E0D9AB3-7C0E-4D1F-8180-FB089A304F54</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
