@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>DestroyFVKeyOnStandby</key>
+			<false/>
+			<key>PayloadDisplayName</key>
+			<string>Security &amp; Privacy</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>com.github.gregneagle.cant_disable_filevault</string>
+			<key>PayloadType</key>
+			<string>com.apple.MCX</string>
+			<key>PayloadUUID</key>
+			<string>9957f948-7ac4-0c96-4c8e-28884ad430ec</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>dontAllowFDEDisable</key>
+			<true/>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>Can't Disable FileVault 2</string>
+	<key>PayloadIdentifier</key>
+	<string>com.github.gregneagle.cant_disable_filevault</string>
+	<key>PayloadOrganization</key>
+	<string></string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>0dc319a0-c331-0131-eeb5-000c294ab81b</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
