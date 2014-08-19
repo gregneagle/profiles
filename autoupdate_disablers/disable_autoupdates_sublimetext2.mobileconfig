@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.sublimetext.2</key>
+				<dict>
+					<key>Set-Once</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>SUEnableAutomaticChecks</key>
+								<false/>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.0e0224ca-9709-4cd2-97c3-355085a56eb5.alacarte.customsettings.21911879-9d90-4496-bc19-34558efb55a5</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>21911879-9d90-4496-bc19-34558efb55a5</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Included custom settings:
+com.sublimetext.2
+
+Git revision: 1d30395cd4</string>
+	<key>PayloadDisplayName</key>
+	<string>MCXToProfile: com.sublimetext.2</string>
+	<key>PayloadIdentifier</key>
+	<string>com.github.gregneagle.sublimetext2</string>
+	<key>PayloadOrganization</key>
+	<string></string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>0e0224ca-9709-4cd2-97c3-355085a56eb5</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

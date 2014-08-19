@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>info.colloquy</key>
+				<dict>
+					<key>Set-Once</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>SUAutomaticallyUpdate</key>
+								<false/>
+								<key>SUEnableAutomaticChecks</key>
+								<false/>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.94d3f7fd-c7c9-4025-adbb-4cd021b46024.alacarte.customsettings.53244464-b00e-432e-b57b-19b7a1fd5149</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>53244464-b00e-432e-b57b-19b7a1fd5149</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Included custom settings:
+info.colloquy
+
+Git revision: 1d30395cd4</string>
+	<key>PayloadDisplayName</key>
+	<string>MCXToProfile: info.colloquy</string>
+	<key>PayloadIdentifier</key>
+	<string>com.github.gregneagle.colloquy</string>
+	<key>PayloadOrganization</key>
+	<string></string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>94d3f7fd-c7c9-4025-adbb-4cd021b46024</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

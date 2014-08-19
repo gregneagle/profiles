@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>net.sf.cord</key>
+				<dict>
+					<key>Set-Once</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>SUEnableAutomaticChecks</key>
+								<false/>
+								<key>SUHasLaunchedBefore</key>
+								<true/>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.7dc689c6-1142-4992-b825-0faae0b84a03.alacarte.customsettings.c996b3b2-e880-4f04-8d2c-a7cc5a1060cb</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>c996b3b2-e880-4f04-8d2c-a7cc5a1060cb</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Included custom settings:
+net.sf.cord
+
+Git revision: 1d30395cd4</string>
+	<key>PayloadDisplayName</key>
+	<string>MCXToProfile: net.sf.cord</string>
+	<key>PayloadIdentifier</key>
+	<string>com.github.gregneagle.cord</string>
+	<key>PayloadOrganization</key>
+	<string></string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>7dc689c6-1142-4992-b825-0faae0b84a03</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

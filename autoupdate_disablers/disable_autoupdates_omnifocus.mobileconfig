@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.omnigroup.OmniFocus</key>
+				<dict>
+					<key>Set-Once</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>AutomaticSoftwareUpdateCheckEnabled</key>
+								<false/>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.9c5d45ef-fdad-45bf-83f1-1ba319f1ffbd.alacarte.customsettings.51d3d37f-464d-4c56-949d-57450c2381af</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>51d3d37f-464d-4c56-949d-57450c2381af</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Included custom settings:
+com.omnigroup.OmniFocus
+
+Git revision: 1d30395cd4</string>
+	<key>PayloadDisplayName</key>
+	<string>MCXToProfile: com.omnigroup.OmniFocus</string>
+	<key>PayloadIdentifier</key>
+	<string>com.github.gregneagle.omnifocus</string>
+	<key>PayloadOrganization</key>
+	<string></string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>9c5d45ef-fdad-45bf-83f1-1ba319f1ffbd</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

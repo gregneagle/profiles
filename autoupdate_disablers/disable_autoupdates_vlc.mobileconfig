@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>org.videolan.vlc</key>
+				<dict>
+					<key>Set-Once</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>SUEnableAutomaticChecks</key>
+								<false/>
+								<key>SUHasLaunchedBefore</key>
+								<true/>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.e6dba6fb-6450-4da6-bacc-53c3c17e309a.alacarte.customsettings.8956dff5-688a-4585-b59e-81db1f8f6997</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>8956dff5-688a-4585-b59e-81db1f8f6997</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Included custom settings:
+org.videolan.vlc
+
+Git revision: 1d30395cd4</string>
+	<key>PayloadDisplayName</key>
+	<string>MCXToProfile: org.videolan.vlc</string>
+	<key>PayloadIdentifier</key>
+	<string>com.github.gregneagle.vlc</string>
+	<key>PayloadOrganization</key>
+	<string></string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>e6dba6fb-6450-4da6-bacc-53c3c17e309a</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

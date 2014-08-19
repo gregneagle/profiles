@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.omnigroup.OmniGrafflePro</key>
+				<dict>
+					<key>Set-Once</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+							    <key>AutomaticSoftwareUpdateCheckEnabled</key>
+								<false/>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.44330239-bc63-4ca9-a849-aca7e5c79800.alacarte.customsettings.c2433eb7-6755-49b7-b3b9-3d32fe3385c6</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>c2433eb7-6755-49b7-b3b9-3d32fe3385c6</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Included custom settings:
+com.omnigroup.OmniGrafflePro
+
+Git revision: 1d30395cd4</string>
+	<key>PayloadDisplayName</key>
+	<string>MCXToProfile: com.omnigroup.OmniGrafflePro</string>
+	<key>PayloadIdentifier</key>
+	<string>com.github.gregneagle.omnigrafflepro</string>
+	<key>PayloadOrganization</key>
+	<string></string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>44330239-bc63-4ca9-a849-aca7e5c79800</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
