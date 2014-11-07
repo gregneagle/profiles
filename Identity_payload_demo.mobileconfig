@@ -95,7 +95,7 @@
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
-	<string>Settings for Madministrator</string>
+	<string>Demo of Identity Payload</string>
 	<key>PayloadIdentifier</key>
 	<string>d5ad66d0-4841-0132-eebc-000c294ab81b.alacarte</string>
 	<key>PayloadOrganization</key>
