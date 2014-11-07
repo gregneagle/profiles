@@ -13,13 +13,13 @@
                     <array>
                         <dict>
                             <key>mcx_data_timestamp</key>
-                            <date>2013-10-29T17:20:10Z</date>
+                            <date>2014-10-29T17:20:10Z</date>
                             <key>mcx_preference_settings</key>
                             <dict>
                                 <key>DidSeeCloudSetup</key>
                                 <true/>
                                 <key>LastSeenCloudProductVersion</key>
-                                <string>10.9</string>
+                                <string>10.9.5</string>
                             </dict>
                         </dict>
                     </array>
