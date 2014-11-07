@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Identification</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentification</key>
+			<dict>
+				<key>AuthMethod</key>
+				<string>UserEnteredPassword</string>
+				<key>EmailAddress</key>
+				<string></string>
+				<key>FullName</key>
+				<string></string>
+				<key>Password</key>
+				<string></string>
+				<key>Prompt</key>
+				<string>Please enter your user information.</string>
+				<key>PromptMessage</key>
+				<string>This will be used to configure email, etc. Enter full email address for username.</string>
+				<key>UserName</key>
+				<string></string>
+			</dict>
+			<key>PayloadIdentifier</key>
+			<string>d5ad66d0-4841-0132-eebc-000c294ab81b.alacarte.identification.38205430-4842-0132-eebf-000c294ab81b</string>
+			<key>PayloadType</key>
+			<string>com.apple.configurationprofile.identification</string>
+			<key>PayloadUUID</key>
+			<string>38205430-4842-0132-eebf-000c294ab81b</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>EmailAccountDescription</key>
+			<string>Profile Configured Email</string>
+			<key>EmailAccountName</key>
+			<string></string>
+			<key>EmailAccountType</key>
+			<string>EmailTypeIMAP</string>
+			<key>EmailAddress</key>
+			<string></string>
+			<key>IdentificationUUID</key>
+			<string>38205430-4842-0132-eebf-000c294ab81b</string>
+			<key>IncomingMailServerAuthentication</key>
+			<string>EmailAuthPassword</string>
+			<key>IncomingMailServerHostName</key>
+			<string>imap.gmail.com</string>
+			<key>IncomingMailServerPortNumber</key>
+			<integer>993</integer>
+			<key>IncomingMailServerUseSSL</key>
+			<true/>
+			<key>IncomingMailServerUsername</key>
+			<string></string>
+			<key>IncomingPassword</key>
+			<string></string>
+			<key>OutgoingMailServerAuthentication</key>
+			<string>EmailAuthPassword</string>
+			<key>OutgoingMailServerHostName</key>
+			<string>smtp.gmail.com</string>
+			<key>OutgoingMailServerPortNumber</key>
+			<integer>465</integer>
+			<key>OutgoingMailServerUseSSL</key>
+			<true/>
+			<key>OutgoingMailServerUsername</key>
+			<string></string>
+			<key>OutgoingPassword</key>
+			<string></string>
+			<key>OutgoingPasswordSameAsIncomingPassword</key>
+			<true/>
+			<key>PayloadDisplayName</key>
+			<string>Profile Configured Email</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>d5ad66d0-4841-0132-eebc-000c294ab81b.alacarte.email.38130f60-4842-0132-eebe-000c294ab81b</string>
+			<key>PayloadType</key>
+			<string>com.apple.mail.managed</string>
+			<key>PayloadUUID</key>
+			<string>38130f60-4842-0132-eebe-000c294ab81b</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PreventAppSheet</key>
+			<false/>
+			<key>PreventMove</key>
+			<false/>
+			<key>SMIMEEnabled</key>
+			<false/>
+			<key>disableMailRecentsSyncing</key>
+			<false/>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>Settings for Madministrator</string>
+	<key>PayloadIdentifier</key>
+	<string>d5ad66d0-4841-0132-eebc-000c294ab81b.alacarte</string>
+	<key>PayloadOrganization</key>
+	<string>Disney Animation</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadScope</key>
+	<string>User</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>d5ad66d0-4841-0132-eebc-000c294ab81b</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
