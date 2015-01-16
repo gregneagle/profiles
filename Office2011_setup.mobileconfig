@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.microsoft.autoupdate2</key>
+				<dict>
+					<key>Set-Once</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>HowToCheck</key>
+								<string>Manual</string>
+								<key>LastUpdate</key>
+								<date>2001-01-01T00:00:00Z</date>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.88e96808-c75f-4868-b9cf-892429aac056.alacarte.customsettings.83e54fed-76e4-4362-8ece-220d0ea87396</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>83e54fed-76e4-4362-8ece-220d0ea87396</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.microsoft.error_reporting</key>
+				<dict>
+					<key>Set-Once</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>SQMReportsEnabled</key>
+								<false/>
+								<key>ShipAssertEnabled</key>
+								<false/>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.88e96808-c75f-4868-b9cf-892429aac056.alacarte.customsettings.b224d33d-3986-46af-b503-e0102b70b992</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>b224d33d-3986-46af-b503-e0102b70b992</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.microsoft.office</key>
+				<dict>
+					<key>Set-Once</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>14\FirstRun\SetupComplete</key>
+								<integer>1</integer>
+								<key>14\UserInfo\UserInitials</key>
+								<string>MU</string>
+								<key>14\UserInfo\UserName</key>
+								<string>Microsoft User</string>
+								<key>14\UserInfo\UserOrganization</key>
+								<string>Your Organization</string>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.88e96808-c75f-4868-b9cf-892429aac056.alacarte.customsettings.ba640931-47bf-4c5b-8d3e-7572b0a20d8c</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>ba640931-47bf-4c5b-8d3e-7572b0a20d8c</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Included custom settings:
+com.microsoft.autoupdate2
+com.microsoft.error_reporting
+com.microsoft.office
+
+Git revision: 1d30395cd4</string>
+	<key>PayloadDisplayName</key>
+	<string>Microsoft AutoUpdate Settings</string>
+	<key>PayloadIdentifier</key>
+	<string>com.github.gregneagle.config.office2011</string>
+	<key>PayloadOrganization</key>
+	<string></string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>88e96808-c75f-4868-b9cf-892429aac056</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
