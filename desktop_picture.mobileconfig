@@ -2,44 +2,44 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>PayloadContent</key>
-	<array>
-		<dict>
-			<key>PayloadDisplayName</key>
-			<string>Desktop</string>
-			<key>PayloadEnabled</key>
-			<true/>
-			<key>PayloadIdentifier</key>
-			<string>0dc319a0-c331-0131-eeb5-000c294ab81b.alacarte.macosxrestrictions.bb7511d0-638e-0132-eec8-000c294ab81b.desktop</string>
-			<key>PayloadType</key>
-			<string>com.apple.desktop</string>
-			<key>PayloadUUID</key>
-			<string>91ddc6fa-0ed1-df41-884b-fc5bb12b7ec1</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
-			<key>locked</key>
-			<true/>
-			<key>override-picture-path</key>
-			<string>/Library/Desktop Pictures/Abstract.jpg</string>
-		</dict>
-	</array>
-	<key>PayloadDescription</key>
-	<string>Your Organization desktop picture settings</string>
-	<key>PayloadDisplayName</key>
-	<string>Desktop Picture</string>
-	<key>PayloadIdentifier</key>
-	<string>0dc319a0-c331-0131-eeb5-000c294ab81b.alacarte</string>
-	<key>PayloadOrganization</key>
-	<string>Your Organization</string>
-	<key>PayloadRemovalDisallowed</key>
-	<false/>
-	<key>PayloadScope</key>
-	<string>System</string>
-	<key>PayloadType</key>
-	<string>Configuration</string>
-	<key>PayloadUUID</key>
-	<string>0dc319a0-c331-0131-eeb5-000c294ab81b</string>
-	<key>PayloadVersion</key>
-	<integer>1</integer>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>PayloadDisplayName</key>
+            <string>Desktop</string>
+            <key>PayloadEnabled</key>
+            <true/>
+            <key>PayloadIdentifier</key>
+            <string>com.github.gregneagle.desktoppicture.payload</string>
+            <key>PayloadType</key>
+            <string>com.apple.desktop</string>
+            <key>PayloadUUID</key>
+            <string>91ddc6fa-0ed1-df41-884b-fc5bb12b7ec1</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>locked</key>
+            <true/>
+            <key>override-picture-path</key>
+            <string>/Library/Desktop Pictures/Solid Colors/Solid Gray Medium.png</string>
+        </dict>
+    </array>
+    <key>PayloadDescription</key>
+    <string>Your Organization desktop picture settings</string>
+    <key>PayloadDisplayName</key>
+    <string>Desktop Picture</string>
+    <key>PayloadIdentifier</key>
+    <string>com.github.gregneagle.desktoppicture</string>
+    <key>PayloadOrganization</key>
+    <string>Your Organization</string>
+    <key>PayloadRemovalDisallowed</key>
+    <false/>
+    <key>PayloadScope</key>
+    <string>System</string>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>0dc319a0-c331-0131-eeb5-000c294ab81b</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
 </dict>
 </plist>
