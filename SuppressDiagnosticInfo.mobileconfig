@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadIdentifier</key>
+	<string>com.github.gregneagle.disablediagnostics</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>79647BDA-63B9-4149-AA14-72F5C492A247</string>
+	<key>PayloadOrganization</key>
+	<string></string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>PayloadDisplayName</key>
+	<string>Diagnostics Info Configuration</string>
+	<key>PayloadDescription</key>
+	<string>This profile disables diagnostic submissions.</string>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadType</key>
+			<string>com.apple.SubmitDiagInfo</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PayloadIdentifier</key>
+			<string>com.github.gregneagle.disablediagnostics.privacy.SubmitDiagInfo</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadUUID</key>
+			<string>1F081A68-E2C9-4D2E-9A5C-1908FF04348A</string>
+			<key>PayloadDisplayName</key>
+			<string>SubmitDiagInfo</string>
+			<key>AutoSubmit</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>PayloadType</key>
+			<string>com.apple.applicationaccess</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PayloadIdentifier</key>
+			<string>com.github.gregneagle.disablediagnostics.privacy.applicationaccess</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadUUID</key>
+			<string>2907EFAA-A841-493F-9C67-9EEC6F4C197F</string>
+			<key>PayloadDisplayName</key>
+			<string>ApplicationAccess</string>
+			<key>allowDiagnosticSubmission</key>
+			<false/>
+		</dict>
+	</array>
+</dict>
+</plist>
