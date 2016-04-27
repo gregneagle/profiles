@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>PayloadIdentifier</key>
+		<string>com.github.gregneagle.suppress_icloud_asst</string>
+		<key>PayloadRemovalDisallowed</key>
+		<false/>
+		<key>PayloadScope</key>
+		<string>System</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>c8d04bb6-91ca-4bc9-a5d7-c636fe132846</string>
+		<key>PayloadOrganization</key>
+		<string>Disney Animation</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+    	<key>PayloadDescription</key>
+    	<string>Disables iCloud Setup Assistant</string>
+    	<key>PayloadDisplayName</key>
+    	<string>Suppress iCloud Setup Assistant -- El Captian</string>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>PayloadType</key>
+				<string>com.apple.SetupAssistant.managed</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>PayloadIdentifier</key>
+				<string>com.github.gregneagle.suppress_icloud_asst.SetupAssistant.managed</string>
+				<key>PayloadEnabled</key>
+				<true/>
+				<key>PayloadUUID</key>
+				<string>fb3fa053-eb04-623f-6cf1-05a9cbe0b3ff</string>
+				<key>PayloadDisplayName</key>
+				<string>Setup Assistant configuration</string>
+				<key>SkipCloudSetup</key>
+				<true/>
+			</dict>
+		</array>
+	</dict>
+</plist>
