@@ -19,7 +19,7 @@
     	<key>PayloadDescription</key>
     	<string>Disables iCloud Setup Assistant</string>
     	<key>PayloadDisplayName</key>
-    	<string>Suppress iCloud Setup Assistant -- El Captian</string>
+    	<string>Suppress iCloud Setup Assistant -- El Capitan</string>
 		<key>PayloadContent</key>
 		<array>
 			<dict>
